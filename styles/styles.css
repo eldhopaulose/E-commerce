@@ -7,3 +7,31 @@ a{
 h5{
     margin: auto;
 }
+
+.input-padding{
+    padding: 8.6px!important;
+    width: 250px;
+    background-color: rgba(255,255,255,.1);
+    color: rgba(255,255,255,.7);
+    background-clip: padding-box;
+    border-color: rgba(255,255,255,.2);
+}
+.input-button{
+    padding: 8.4px!important;
+    width: 142px;
+    
+}
+.icon-class{
+    background-color: rgba(255,255,255,.1) !important;
+    color: rgba(255,255,255,.7) !important;
+    background-clip: padding-box !important;
+    border-color: rgba(255,255,255,.2) !important;
+    padding: 9px 6px 0 6px;
+}
+.font{
+    font-family: 'Roboto', sans-serif;
+}
+.icon-set{
+    font-size: 40px;
+    margin-right: 10px;
+}
