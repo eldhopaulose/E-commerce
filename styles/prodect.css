@@ -1,0 +1,31 @@
+.border{
+    background-color: rgb(164, 205, 247);
+    color: #fff;
+    
+}
+.bg-card{
+    background-color: rgb(245, 234, 234);
+    color: #666;
+}
+.sticky{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: yellow;
+    padding: 50px;
+    font-size: 20px;
+}
+.icon-class{
+    background-color: rgba(255,255,255,.1) !important;
+    color: rgba(255,255,255,.7) !important;
+    background-clip: padding-box !important;
+    border-color: rgba(255,255,255,.2) !important;
+    padding: 9px 6px 0 6px;
+}
+.font{
+    font-family: 'Roboto', sans-serif;
+}
+.icon-set{
+    font-size: 40px;
+    margin-right: 10px;
+}
